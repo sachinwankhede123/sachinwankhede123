@@ -1,5 +1,4 @@
-![logo](<img src="https://github.com/sachinwankhede123/sachinwankhede123/blob/main/aj.jpg" width="50%" />
-)
+![logo](https://github.com/sachinwankhede123/sachinwankhede123/blob/main/aj.jpg" width="50%)
 <h1 align="center">Hi 👋, I'm Sachin Wankhede</h1>
 <h3 align="center">A passionate .NET Developer from India</h3>
 
